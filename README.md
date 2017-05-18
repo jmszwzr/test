@@ -1,1 +1,2 @@
 GPG签名
+Github上README.md添加图片方式
